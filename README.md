@@ -101,3 +101,13 @@ You can find all the dependencies in the `pubspec.yaml` file.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Screenshots
+
+Here are some screenshots of the app:
+
+![Home Screen](assets/images/screenshot1.png)
+![Meals List](assets/images/screenshot2.png)
+![Recipe Detail](assets/images/screenshot3.png)
+![Favorit a meal](assets/images/screenshot4.png)
+![Favorit List](assets/images/screenshot5.png)
+
